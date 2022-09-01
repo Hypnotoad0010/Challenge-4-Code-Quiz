@@ -8,4 +8,7 @@ I grabbed the questions from https://www.guru99.com/javascript-interview-questio
 
 You can view the live app deloyed here:
 
-A screenshot of the deployed app can be viewed below.
+https://hypnotoad0010.github.io/Challenge-4-Code-Quiz/
+
+A screenshot of the deployed app can be viewed below:
+

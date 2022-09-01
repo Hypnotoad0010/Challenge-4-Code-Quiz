@@ -12,5 +12,4 @@ https://hypnotoad0010.github.io/Challenge-4-Code-Quiz/
 
 A screenshot of the deployed app can be viewed below:
 
-assets\Screenshot (16).png
-
+![Screenshot](assets\Screenshot (16).png)
